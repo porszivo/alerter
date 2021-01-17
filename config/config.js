@@ -5,7 +5,7 @@ const settings = {
 };
 
 settings.database = {
-    url: 'mongodb://nucci.fritz.box:27017/Cluster1?retryWrites=true&w=majority',
+    url: '',
     name: 'alertbot-test'
 }
 
